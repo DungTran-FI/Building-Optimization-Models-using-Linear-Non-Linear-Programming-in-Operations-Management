@@ -8,8 +8,9 @@ This repository contains a collection of small projects that demonstrate the app
 
 The full collection of small projects can be found in:
 
-- [Linear Programming Models - using mainly Solver](./Linear%20Programming%20Models.xlsx)
-- [Non-Linear Programming Models - using Python + Solver](./Non-Linear%20Programming%20Models%20(with%20Python).xlsx)
+- [Linear Programming Models - using mainly Solver](https://github.com/DungTran-FI/Building-Optimization-Models-using-Linear-Non-Linear-Programming-in-Operations-Management/raw/main/Linear%20Programming%20Models.xlsx)
+- [Non-Linear Programming Models - using Python + Solver](https://github.com/DungTran-FI/Building-Optimization-Models-using-Linear-Non-Linear-Programming-in-Operations-Management/raw/main/Non-Linear%20Programming%20Models%20(with%20Python).xlsx)
+
 
 ## Project Highlights
 
