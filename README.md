@@ -1,4 +1,4 @@
-# Operations Research and Optimization Models: Project Collection
+# Optimization Models for Business Applications: Project Collection
 
 ## Overview
 
