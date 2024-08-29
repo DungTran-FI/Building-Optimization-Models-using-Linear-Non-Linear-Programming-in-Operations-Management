@@ -7,8 +7,9 @@ This repository contains a collection of small projects that demonstrate the app
 ## Project Collection:
 
 The full collection of small projects can be found in:
-- (Linear Programming Models (using mainly Solver)([Linear Programming Models.xlsx]
-- (Non-Linear Programming Models (using Python + Solver))[Non-Linear Programming Models (with Python).xlsx]
+
+- [Linear Programming Models - using mainly Solver](./Linear%20Programming%20Models.xlsx)
+- [Non-Linear Programming Models - using Python + Solver](./Non-Linear%20Programming%20Models%20(with%20Python).xlsx)
 
 ## Project Highlights
 
