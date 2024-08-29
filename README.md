@@ -4,6 +4,12 @@
 
 This repository contains a collection of small projects that demonstrate the application of various optimization techniques and operations research methods to solve real-world problems. Each project focuses on different aspects of business analytics, ranging from linear programming and mixed-integer programming to non-linear optimization. The projects span multiple domains, including transportation, job assignment, environmental management, and logistics.
 
+## Project Collection:
+
+The full collection of small projects can be found in:
+- [Linear Programming Models (using mainly Solver)](Linear Programming Models.xlsx)
+- [Linear Programming Models (using Python + Solver)](Non-Linear Programming Models (with Python).xlsx)
+
 ## Project Highlights
 
 Here are some examples of the types of projects included in this collection:
